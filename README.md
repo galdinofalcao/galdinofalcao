@@ -20,6 +20,6 @@ I'm always eager to tackle new challenges and adopt emerging technologies. I enj
 - Communication
 
 **You can check out my projects here:**
-- [Portfolio](https://github.com/galdinofalcao?tab=repositories)
+- [Portfolio](https://github.com/galdinofalcao/Projects)
 
 Feel free to reach out and connect
