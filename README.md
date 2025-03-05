@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Galdino, an Investment Research and Data Analyst
 
-<!--
-**galdinofalcao/galdinofalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
 
-Here are some ideas to get you started:
+I'm a results-driven analyst with a multifaceted background spanning investment research, entrepreneurial leadership, and data analytics, committed to leveraging data insights to drive innovative business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a Master's in Business, a CFA designation, and have developed strong data analytics skills through TripleTen, completing over 15 real-world projects.
+
+The skills acquired in data analytics span the full data pipeline—from data cleaning and exploratory data analysis to data visualization and machine learning techniques in Python.
+
+I'm always eager to tackle new challenges and adopt emerging technologies. I enjoy diving deep into data to extract actionable insights, enhance decision-making, and deliver impactful outcomes.
+
+**Skills:**
+- Financial modeling 
+- Data analysis
+- Python
+- Data visualization
+- Data cleaning and preprocessing
+- Machine learning
+- Communication
+
+**You can check out my projects here:**
+- [Portfolio](https://github.com/galdinofalcao?tab=repositories)
+
+Feel free to reach out and connect
