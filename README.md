@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Galdino, an Investment Research and Data Analyst
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Galdino%20Falcao-blue?logo=linkedin)](https://www.linkedin.com/in/galdino-falcao)
+[![GitHub](https://img.shields.io/badge/GitHub-Galdino%20Falcao-black?logo=github)](https://github.com/galdinofalcao)
 
 **About Me:**
 
