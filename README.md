@@ -13,7 +13,8 @@ The skills acquired in data analytics span the full data pipeline—from data cl
 I'm always eager to tackle new challenges and adopt emerging technologies. I enjoy diving deep into data to extract actionable insights, enhance decision-making, and deliver impactful outcomes.
 
 **Skills:**
-- Financial modeling 
+- Financial modeling
+- Valuation
 - Data analysis
 - Python
 - Data visualization
