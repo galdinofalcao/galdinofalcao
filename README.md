@@ -4,7 +4,7 @@
 
 I'm a results-driven analyst with a multifaceted background spanning investment research, entrepreneurial leadership, and data analytics, committed to leveraging data insights to drive innovative business decisions.
 
-I hold a Master's in Business, a CFA designation, and have developed strong data analytics skills through TripleTen, completing over 15 real-world projects.
+I hold a Master's in Business, a CFA designation, and have developed strong data analytics skills through TripleTen, completing several real-world projects.
 
 The skills acquired in data analytics span the full data pipeline—from data cleaning and exploratory data analysis to data visualization and machine learning techniques in Python.
 
